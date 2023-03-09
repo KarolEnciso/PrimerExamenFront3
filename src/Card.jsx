@@ -3,7 +3,7 @@ import React from 'react';
 const Card = () => {
   return (
     <div>
-      Hola, soy una card 
+      Hola, soy una trajeta 
     </div>
   )
 }
