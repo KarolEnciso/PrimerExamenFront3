@@ -1,0 +1,41 @@
+.form {
+    background-color: #eeeeee;
+    border: 1px solid;
+    padding: 20px;
+    border-color: black;
+    border-radius: 20px;
+}
+
+h1 {
+    font-size: 5px;
+    text-align: left;
+}
+
+.label {
+    display: block;
+    margin-bottom: 5px;
+    text-align: left;
+    font-weight: bold;
+}
+
+input{
+    width: 335px;
+    height: 30px;
+}
+
+select{
+    height: 30px;
+}
+
+input,select {
+    display: block;
+    margin-bottom: 20px;
+    text-align: left;
+}
+
+.button {
+    border-radius: 15px;
+    width: 300px;
+    background-color: dodgerblue;
+    color: white;
+}

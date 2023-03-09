@@ -1,0 +1,15 @@
+.contenedorCard {
+    background-color: #f4fafb;
+    margin-top: 20px;
+    border: 1px solid;
+    padding: 15px;
+    border-color: black;
+    border-radius: 20px;
+    width: 400px;
+}
+
+.colorFavorito {
+    color: red;
+    font-weight: bold;
+    font-size: 30px;
+}
